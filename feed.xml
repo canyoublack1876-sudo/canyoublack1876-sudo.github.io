@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>长庆的工作台 · The Workbench</title>
+    <link>https://changgqing.surge.sh</link>
+    <description>李长庆的数字工作台——前端、Python/FastAPI、AI 应用的工程笔记。</description>
+    <language>zh-CN</language>
+    <item>
+      <title><![CDATA[用 Coze 做一个公众号排版机器人]]></title>
+      <link>https://changgqing.surge.sh/blog/coze-wechat-bot</link>
+      <guid>https://changgqing.surge.sh/blog/coze-wechat-bot</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[把 Markdown 扔进去，吐出排好版的公众号 HTML，全程不用自己写一行 CSS。]]></description>
+    </item>
+    <item>
+      <title><![CDATA[我为什么重新写博客]]></title>
+      <link>https://changgqing.surge.sh/blog/why-i-blog-again</link>
+      <guid>https://changgqing.surge.sh/blog/why-i-blog-again</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[停更三年后，我想清楚了写作对我意味着什么。]]></description>
+    </item>
+    <item>
+      <title><![CDATA[用 FastGPT 搭一个知识库]]></title>
+      <link>https://changgqing.surge.sh/blog/fastgpt-knowledge-base</link>
+      <guid>https://changgqing.surge.sh/blog/fastgpt-knowledge-base</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[从零搭一个能查文档的知识库，踩过的坑都在这。]]></description>
+    </item>
+    <item>
+      <title><![CDATA[给 RAG 系统搭一条评估流水线]]></title>
+      <link>https://changgqing.surge.sh/blog/rag-evaluation-pipeline</link>
+      <guid>https://changgqing.surge.sh/blog/rag-evaluation-pipeline</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[别再凭感觉调 RAG 了。一套自动化评估流水线，让每次改动都有数据说话。]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Three.js 着色器入门：从第一个 ShaderMaterial 开始]]></title>
+      <link>https://changgqing.surge.sh/blog/threejs-shader-intro</link>
+      <guid>https://changgqing.surge.sh/blog/threejs-shader-intro</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[别再只会用 MeshStandardMaterial 了，手写 GLSL 才是 Three.js 的正确打开方式。]]></description>
+    </item>
+    <item>
+      <title><![CDATA[RAG 入门：从向量到回答]]></title>
+      <link>https://changgqing.surge.sh/blog/rag-from-scratch</link>
+      <guid>https://changgqing.surge.sh/blog/rag-from-scratch</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[30 行代码讲清楚 RAG 的核心原理，不依赖任何框架。]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Next.js 15 迁移手记]]></title>
+      <link>https://changgqing.surge.sh/blog/nextjs-15-migration</link>
+      <guid>https://changgqing.surge.sh/blog/nextjs-15-migration</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[params 变异步了，React 19 来了，我的一些迁移笔记。]]></description>
+    </item>
+    <item>
+      <title><![CDATA[FastAPI 生产环境 checklist]]></title>
+      <link>https://changgqing.surge.sh/blog/fastapi-production-checklist</link>
+      <guid>https://changgqing.surge.sh/blog/fastapi-production-checklist</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[从「能跑」到「敢上线」，FastAPI 项目要过的 12 道关。]]></description>
+    </item>
+    <item>
+      <title><![CDATA[用 Vim 写了三个月代码，我留下了什么]]></title>
+      <link>https://changgqing.surge.sh/blog/vim-three-months</link>
+      <guid>https://changgqing.surge.sh/blog/vim-three-months</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[不是为了装逼。三个月后我的 VS Code 里多了 Vim 插件，而不是卸载了它。]]></description>
+    </item>
+  </channel>
+</rss>
